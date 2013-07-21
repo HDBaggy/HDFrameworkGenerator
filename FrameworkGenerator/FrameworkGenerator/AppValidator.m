@@ -114,9 +114,14 @@
 -(void)connection:(NSURLConnection *)connection didReceiveResponse:(NSURLResponse *)response
 {
     [responseData setLength:0];
+    
+
+    
 }
 -(void)connection:(NSURLConnection *)connection didReceiveData:(NSData *)data
 {
+    NSLog(@"%@",data);
+    
     [responseData appendData:data];
 }
 -(void)connection:(NSURLConnection *)connection didFailWithError:(NSError *)error
@@ -128,7 +133,6 @@
 -(void)connectionDidFinishLoading:(NSURLConnection *)connection
 {
     NSString *strResponse = [[NSString alloc] initWithData:responseData encoding:NSUTF8StringEncoding];
-    
     
     NSLog(@"Response -> %@",strResponse);
     

@@ -34,11 +34,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "FrameworkGenerator/AppValidator.m"
-         timestampString = "386713740.794712"
+         timestampString = "391546457.348503"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "120"
-         endingLineNumber = "120"
+         startingLineNumber = "125"
+         endingLineNumber = "125"
          landmarkName = "-connection:didReceiveData:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -47,11 +47,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "FrameworkGenerator/AppValidator.m"
-         timestampString = "386713740.794712"
+         timestampString = "391546457.348503"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "125"
-         endingLineNumber = "125"
+         startingLineNumber = "130"
+         endingLineNumber = "130"
          landmarkName = "-connection:didFailWithError:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -60,11 +60,11 @@
          ignoreCount = "0"
          continueAfterRunningActions = "No"
          filePath = "FrameworkGenerator/AppValidator.m"
-         timestampString = "386713740.794712"
+         timestampString = "391546457.348503"
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
-         startingLineNumber = "129"
-         endingLineNumber = "129"
+         startingLineNumber = "134"
+         endingLineNumber = "134"
          landmarkName = "-connectionDidFinishLoading:"
          landmarkType = "5">
       </FileBreakpoint>
@@ -79,6 +79,19 @@
          startingLineNumber = "34"
          endingLineNumber = "34"
          landmarkName = "-appDidStart"
+         landmarkType = "5">
+      </FileBreakpoint>
+      <FileBreakpoint
+         shouldBeEnabled = "Yes"
+         ignoreCount = "0"
+         continueAfterRunningActions = "No"
+         filePath = "FrameworkGenerator/AppValidator.m"
+         timestampString = "391546129.35391"
+         startingColumnNumber = "9223372036854775807"
+         endingColumnNumber = "9223372036854775807"
+         startingLineNumber = "58"
+         endingLineNumber = "58"
+         landmarkName = "-encodeDictionary:"
          landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>
