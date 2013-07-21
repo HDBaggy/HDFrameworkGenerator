@@ -2,7 +2,7 @@
 //  AppValidator.h
 //  AppValidator
 //
-//  Created by HDBaggy on 23/01/13.
+//  Created by on 23/01/13.
 //  Copyright (c) 2013 Logic Engine. All rights reserved.
 //
 
